@@ -60,7 +60,7 @@ if((register.name!==loginName)||(register.password!==loginPassword)){
           
             <button onClick={Loginvalidation}>Login</button><br />
             <p style={{fontSize:'15px'}}>Doesn't have an account yet? <Link to={'/'}>Sign up</Link></p>
-                <p>Already having account ?  <a href="https://carvings.vercel.app/login">Login</a></p>
+               
         </div>
 
         </div>
