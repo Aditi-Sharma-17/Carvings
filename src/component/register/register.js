@@ -41,6 +41,7 @@ function Register(){
             <input type='password'value={password} onChange={(e)=>{setpassword(e.target.value)}}></input>
             <br /><br />
             <button onClick={registertration}>Register</button>
+     <p>Already having account ?  <a href="https://carvings.vercel.app/login">Login</a></p>
         </div>
         </div>
     )
