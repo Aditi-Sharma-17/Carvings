@@ -1,5 +1,5 @@
 import React from "react";
-import logo from '../image/food.png'
+import logo from '../image/logo.jpg'
 import Food from "../../foodimage";
 import '../footer/footer.css'
 import { useHistory } from "react-router-dom";
@@ -62,7 +62,7 @@ function Footer(){
                 </div>
               
               </div>
-              <p>Copyrights@2023</p>
+              <p>Copyrights 2025 @Cravings. All rights reserved</p>
         </div>
     )
 }

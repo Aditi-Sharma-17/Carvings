@@ -1,5 +1,5 @@
 import React from "react";
-import logo from '../image/food.png'
+import logo from '../image/logo.jpg'
 import cartimg from '../image/cart.jpg'
 import '../header/header.css'
 import { useSelector } from "react-redux";
